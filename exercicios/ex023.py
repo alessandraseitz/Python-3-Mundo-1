@@ -4,7 +4,7 @@
 #dezena: 3
 #centena: 8
 #milhar: 1
-#*Tentar como string e matematicamente
+#*Tentar como string ou matematicamente
 
 from math import 
 num = input(int('Digite um número: '))
